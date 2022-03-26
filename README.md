@@ -13,8 +13,7 @@
   ![RStudio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-<h3> :chart_with_upwards_trend: &nbsp;Minhas Skills </h3>
-**Estatísticas**
+<h3> :chart_with_upwards_trend: &nbsp;Estatísticas </h3>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ocesarfreitas&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesarfreitas&layout=compact&theme=dracula&hide_border=true)
