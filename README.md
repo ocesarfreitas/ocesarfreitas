@@ -11,13 +11,8 @@
 **Aplicações e Dados**
 
   ![RStudio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  
-**DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
 <br/>
