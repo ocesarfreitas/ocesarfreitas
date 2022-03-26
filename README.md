@@ -15,8 +15,9 @@
 
 
 **Estatísticas**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ocesarfreitas&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesarfreitas&layout=compact&theme=dracula&hide_border=true)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ocesarfreitas&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesarfreitas&layout=compact&theme=dracula&hide_border=true)
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
