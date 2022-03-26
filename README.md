@@ -1,4 +1,4 @@
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man_student: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Economia na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>.
 - 🌱 &nbsp; Aprendendo mais sobre R Studio, R Markdown, Python e Git.
