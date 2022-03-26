@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ocesarfreitas&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Economia na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>.
 - 🌱 &nbsp; Aprendendo mais sobre R Studio, R Markdown, Python e Git.
@@ -13,7 +13,7 @@
   ![RStudio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-
+<h3> :chart_with_upwards_trend: &nbsp;Minhas Skills </h3>
 **Estatísticas**
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ocesarfreitas&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
