@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=ocesarfreitas&color=006bed)
-
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Economia na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>.
