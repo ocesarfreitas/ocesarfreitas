@@ -30,6 +30,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/cesarfreitasalbuquerque/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:cesarfreitasalbuquerque@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/ocesarfreitas)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesarfreitasalbuquerque/)](https://www.linkedin.com/in/cesarfreitasalbuquerque/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesarfreitasalbuquerque@gmail.com)](mailto:cesarfreitasalbuquerque@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/ocesarfreitas?label=follow&style=social)](https://github.com/ocesarfreitas)
