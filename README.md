@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Economia no <a href="http://www.economia.unb.br/">Universidade de Brasília</a>.
-- 🌱 &nbsp; Aprendendo mais sobre R Studio, R Markdown, Pyhton e Git.
+- 🌱 &nbsp; Aprendendo mais sobre R Studio, R Markdown, Python e Git.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
