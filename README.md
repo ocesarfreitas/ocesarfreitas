@@ -24,4 +24,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-cesarfreitasalbuquerque@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesarfreitasalbuquerque@gmail.com)](mailto:cesarfreitasalbuquerque@gmail.com)
 [![GitHub César Freitas]( https://img.shields.io/github/followers/ocesarfreitas?label=follow&style=social)](https://github.com/ocesarfreitas)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gmp72zocorpksbt6rlalluy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
