@@ -2,7 +2,7 @@
 
 - 🎓 &nbsp; Graduando em **Economia** na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>.
 - 💼 &nbsp; Estagiário em **Ciência de Dados e Economia** no <a href="https://www.gov.br/cade/pt-br/pagina-inicial">Conselho Administrativo de Defesa Econômica (CADE)</a>
-- 🌱 &nbsp; Aprendendo mais sobre R Studio, R Markdown, Python e Git.
+- 🌱 &nbsp; Desenvolvendo minhas habilidades em R Studio, R Markdown, Python e Git.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
