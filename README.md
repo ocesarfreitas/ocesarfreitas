@@ -4,6 +4,8 @@
 - 💼 &nbsp; Estagiário em **Ciência de Dados e Economia** no <a href="https://www.gov.br/cade/pt-br/pagina-inicial">Conselho Administrativo de Defesa Econômica (CADE)</a>
 - 🌱 &nbsp; Desenvolvendo minhas habilidades em R Studio, R Markdown, Python e Git.
 
+-----
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
   ![RStudio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -12,11 +14,14 @@
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+-----
+
 <h3> :chart_with_upwards_trend: &nbsp;Estatísticas </h3>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ocesarfreitas&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&hide_border=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesarfreitas&layout=compact&theme=dracula&hide_border=true)
 
+-----
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
