@@ -6,7 +6,6 @@
 - 👨🏻‍💻 &nbsp; Assistente de pesquisa na <a href="http://www.cief.unb.br/">CIEF</a>.
 - 👨🏻‍💻 &nbsp; Assistente de pesquisa no <a href="http://www.lamfo.unb.br/">LAMFO</a>.
 - 📓 &nbsp; Editor-Chefe da Revista Acadêmica <a href="http://www.ecodagraduacao.com.br/">"Eco da Graduação"</a>.
-- 🌱 &nbsp; Desenvolvendo minhas habilidades em R Studio, R Markdown, Python e Git.
 
 -----
 
