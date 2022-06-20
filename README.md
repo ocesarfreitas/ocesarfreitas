@@ -3,7 +3,7 @@
 - 🎓 &nbsp; Graduando em **Economia** na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>.
 - 💼 &nbsp; Estagiário em **Ciência de Dados e Economia** no <a href="https://www.gov.br/cade/pt-br/pagina-inicial">Conselho Administrativo de Defesa Econômica (CADE)</a>.
 - 👨🏻‍💻 &nbsp; Assistente de pesquisa de um projeto desenvolvido por doutorandos da **PUC-Rio** e **PPGEco-UnB**.
-- 👨🏻‍💻 &nbsp; Assistente de pesquisa na <a href="https://enap.gov.br/pt/">ENAP>.
+- 👨🏻‍💻 &nbsp; Assistente de pesquisa na <a href="https://enap.gov.br/pt/">ENAP</a>.
 - 👨🏻‍💻 &nbsp; Assistente de pesquisa na <a href="http://www.cief.unb.br/">CIEF</a>.
 - 👨🏻‍💻 &nbsp; Assistente de pesquisa no <a href="http://www.lamfo.unb.br/">LAMFO</a>.
 - 📓 &nbsp; Editor-Chefe da Revista Acadêmica <a href="http://www.ecodagraduacao.com.br/">"Eco da Graduação"</a>.
