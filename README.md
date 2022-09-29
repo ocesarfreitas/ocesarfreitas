@@ -23,7 +23,7 @@
 <h3> :chart_with_upwards_trend: &nbsp;Estatísticas </h3>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ocesarfreitas&count_private=true&show_icons=true&theme=dark&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesarfreitas&layout=compact&theme=dark&hide_border=true&hide=JavaScript,CSS,HTML,SCSS,TeX)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesarfreitas&layout=compact&theme=dark&hide_border=true&hide=JavaScript,CSS,SCSS)
 
 -----
 
