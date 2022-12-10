@@ -1,7 +1,7 @@
 <h3> :man_student: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Graduando em **Economia** na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>
-- 💼 &nbsp; Estagiário em **Ciência de Economia** no <a href="https://patri.com.br/">Patri Políticas Públicas e Public Affairs</a>
+- 💼 &nbsp; Estagiário em **Ciência de Economia** na <a href="https://patri.com.br/">Patri Políticas Públicas e Public Affairs</a>
 - 👨🏻‍💻 &nbsp; Assistente de pesquisa em projeto de parceria da <a href="https://enap.gov.br/pt/">ENAP</a> e o <a href="https://www.lapcipp.org/">LAPCIPP</a>
 - 📓 &nbsp; Editor-Chefe da Revista Acadêmica <a href="http://www.ecodagraduacao.com.br/">O Eco da Graduação</a>
 
