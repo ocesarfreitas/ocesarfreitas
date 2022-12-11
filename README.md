@@ -4,6 +4,7 @@
 - 💼 &nbsp; Estagiário de **Economia** em Estados e Municípios na <a href="https://patri.com.br/">Patri Políticas Públicas e Public Affairs</a>
 - 👨🏻‍💻 &nbsp; Assistente de pesquisa em projeto de parceria da <a href="https://enap.gov.br/pt/">ENAP</a> e o <a href="https://www.lapcipp.org/">LAPCIPP</a>
 - 📓 &nbsp; Editor-Chefe da Revista Acadêmica <a href="http://www.ecodagraduacao.com.br/">O Eco da Graduação</a>
+- 🌱 &nbsp; Desenvolvendo minhas habilidades em webscraping e estudando economia do trabalho
 
 -----
 
