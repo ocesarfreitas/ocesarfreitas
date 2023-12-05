@@ -1,8 +1,7 @@
 <h3> :man_student: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Graduando em **Economia** na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>
-- 👨🏻‍💻 &nbsp; Assistente de pesquisa em projeto de parceria da <a href="https://enap.gov.br/pt/">ENAP</a> e o <a href="https://www.lapcipp.org/">LAPCIPP</a>
-- 👨🏻‍💻 &nbsp; Assistente de pesquisa em projeto de parceria da <a href="https://www.educacao.df.gov.br/">SEE-DF</a> e a <a href="https://www.rbcip.org/">RBCIP</a>
+- 🎓 &nbsp; Graduado em **Economia** na <a href="http://www.economia.unb.br/">Universidade de Brasília</a>
+- 🎓 &nbsp; Doutorando em **Economia** pelo <a href="https://www.insper.edu.br/pos-graduacao/doutorado/">Insper</a>
 - 🌱 &nbsp; Desenvolvendo minhas habilidades em webscraping, mineração e limpeza de dados e estudando economia do trabalho
 
 -----
